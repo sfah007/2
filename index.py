@@ -10,14 +10,14 @@ bot = telebot.TeleBot("1190702784:AAHsxCxyoTdJbifoQqXXHAPBvBZ6wGo2344")
 ###BOT API###
 
 #Выберете язык вашей системы [1]Ru [2]En Select language your system
-language = 1
+language = 2
 
 if language == 1:#РУССКИЙ
     #Пожалуйста введите имя пользователя в переменную user name для того чтобы знать через какую директорию загружать файл:
   #####################
   ###               ###
   ##                 ##
-    username = 'root'
+    username = 'admin'
   ##                 ##
   ###               ###
   #####################
