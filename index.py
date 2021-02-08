@@ -6,7 +6,7 @@ import time
 
 
 ###BOT API###
-bot = telebot.TeleBot("")
+bot = telebot.TeleBot("1190702784:AAHsxCxyoTdJbifoQqXXHAPBvBZ6wGo2344")
 ###BOT API###
 
 #Выберете язык вашей системы [1]Ru [2]En Select language your system
